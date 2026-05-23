@@ -1,0 +1,79 @@
+aid: supernal-aero
+name: Supernal
+description: >-
+  Supernal is the Advanced Air Mobility (AAM) company of Hyundai Motor Group,
+  headquartered in Washington, D.C. with engineering operations in California.
+  Supernal is developing the SA-2, an all-electric vertical take-off and
+  landing (eVTOL) aircraft unveiled at CES 2024, designed for short urban and
+  regional trips with a pilot and four passengers, targeting commercial entry
+  later this decade pending FAA Type Certification. Supernal leverages Hyundai
+  Motor Group capabilities in design, manufacturing, batteries, motors, and
+  software, and envisions an integrated AAM ecosystem of vertiports, sky
+  corridors, and last-mile connectivity through robotaxis and rideshare.
+  Supernal is hardware- and ecosystem-focused with no public consumer or
+  developer APIs at this stage.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.supernal.aero
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Advanced Air Mobility
+  - Aerospace
+  - Air Taxi
+  - eVTOL
+  - Electric Aviation
+  - FAA Certification
+  - Hyundai
+  - Urban Air Mobility
+  - Vertiports
+apis: []
+common:
+  - url: https://www.supernal.aero/
+    name: Supernal Website
+    type: Website
+  - url: https://www.supernal.aero/about/
+    name: About Supernal
+    type: About
+  - url: https://www.supernal.aero/expertise/
+    name: Expertise
+    type: Technology
+  - url: https://www.supernal.aero/newsroom/
+    name: Newsroom
+    type: Blog
+  - url: https://www.supernal.aero/contactus/
+    name: Contact
+    type: Contact
+  - url: https://jobs.supernal.aero/
+    name: Careers
+    type: Careers
+  - url: https://www.hyundaimotorgroup.com/
+    name: Hyundai Motor Group (Parent)
+    type: Parent
+  - url: https://www.faa.gov/newsroom
+    name: FAA Newsroom (Certification Tracking)
+    type: Regulator
+  - url: https://www.linkedin.com/company/supernalaam/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/supernal_aero
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@supernal_aero
+    name: YouTube
+    type: YouTube
+  - url: https://www.instagram.com/supernal_aero/
+    name: Instagram
+    type: Instagram
+  - url: https://www.supernal.aero/terms-of-use/
+    name: Terms of Use
+    type: TermsOfService
+  - url: https://www.supernal.aero/privacy-policy/
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
