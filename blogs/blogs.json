@@ -3,12 +3,12 @@
   "feeds": [
     {
       "source": "https://www.supernal.aero/newsroom/",
-      "feed_url": "https://www.supernal.aero/newsroom/",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:13:23Z",
+  "agent_pulled": "2026-06-27"
 }
