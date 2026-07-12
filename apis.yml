@@ -32,6 +32,8 @@ tags:
   - Vertiports
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/supernal-aero-domain-security.yml
   - url: https://www.supernal.aero/
     name: Supernal Website
     type: Website
