@@ -12,7 +12,18 @@ description: >-
   corridors, and last-mile connectivity through robotaxis and rideshare.
   Supernal is hardware- and ecosystem-focused with no public consumer or
   developer APIs at this stage.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/supernal-aero.png
 url: https://www.supernal.aero
 created: '2026-05-23'
 modified: '2026-05-23'
